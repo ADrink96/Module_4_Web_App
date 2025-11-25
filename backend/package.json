@@ -1,0 +1,13 @@
+{
+  "name": "intro-to-express-backend",
+  "version": "1.0.0",
+  "description": "Intro to Express tutorial backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
